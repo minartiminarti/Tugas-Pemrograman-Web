@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="vieport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas 2 belajar HTML</title>
+</head>
+<body>
+    <center>
+        <h3>Table sahabat</h3>
+        <img src="sahabat.png" width="400" alt="foto sahabt">
+        <br>
+        <br>
+        <table border="1">
+            <tr align="center">
+                <th>No</th>
+                <th>Nama</th>
+                <th>Umur</th>
+                <th>Alamat</th>
+                <th>universitas</th>    
+            </tr>
+            <tr align="center">
+                <td>1</td>
+                <td>Minarti</td>
+                <td>19 Tahun</td>
+                <td>Waigamo</td>
+                <td>Universitas Sulawesi Barat</td>
+            </tr>
+            <tr align="center">
+                <td>2</td>
+                <td>Syarifah Nurfaizah Al-Habsy</td>
+                <td>19 Tahun</td>
+                <td>Waigamo Selatan</td>
+                <td>UIN Alauddin Makassar</td>
+            </tr>
+            <tr align="center">
+                <td>3</td>
+                <td>Maya Angraeni Aco</td>
+                <td>19 Tahun</td>
+                <td>Waigamo Selatan</td>
+                <td>Universitas Sulawesi Barat</td>
+            </tr>
+            <tr align="center">
+                <td>4</td>
+                <td>Ayu Wirda Nengsi</td>
+                <td>19 Tahun</td>
+                <td>Waigamo Selatan</td>
+                <td>Universitas Negeri Makassar</td>
+            </tr>
+        </table>
+        <p>Untuk Melihat Source Code klik <a href="https://drive.google.com/folderview?id=1rLMHxitTxyFaj2wWduQ7MqPG2v5CK094">Disini</a></p>
+        <p>jangan lupa bahagia</p>
+        </center>
+
+    </body>
+    </html> 
